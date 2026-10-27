@@ -6,4 +6,5 @@
 7464c146a2e0a5c5a5646beec3cb370004c45a1e89c9fe3cc435fc6c16b1d75f    76976  knowledge/04-ai-security-and-hardening.md
 623f3a10be0a319f649fa7c69fc2a524c3086dd154283c88622c59d29708a570   108390  knowledge/05-controlled-ai-architecture.md
 d6baa9ab6d6aa4890cde9a20dbbbf498ee5483a29b185f1938945469ee5d6aa9    66351  knowledge/06-policy-operating-model-and-enablement.md
-99c9c752ba2db9bd7679436446b2ffe0694c465ef2dbf258201732a8e957d6c5     4426  README.md
+a25a7ff756ec26728a36d95bf753eba9148979496421d6b263e6550d603034a7    32290  knowledge/07-company-brain-and-central-factory.md
+1a9a710c1dadcc3bed5b9882c1a443800731c2de236251ca944d7a927411b9f2     4633  README.md

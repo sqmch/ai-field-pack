@@ -21,9 +21,10 @@ numbering has gaps.
 | AI automation, the factory, skill and plugin design, AI policy, agent security, onboarding by role | `FIELD-GUIDE.md`. Its first page is a short version; route from its section 12 table |
 | Depth or sources for one claim | Only the section the guide's pointer names |
 | GitLab concepts, access from a work laptop | `gitlab-for-github-users.md` |
+| A company brain (generated knowledge hub), one factory across many repositories, seats vs API-billed pipeline agents | `knowledge/07-company-brain-and-central-factory.md`; its §1 is the short version |
 | Whether a pack claim has been corrected | This repository's issues, before relying on the claim |
 
-The guide is about 14k tokens. The six `knowledge/` files total about 125k, so read
+The guide is about 14k tokens. The seven `knowledge/` files total about 130k, so read
 them by section. Pointers resolve like this:
 
 - `§2.6` is the heading `### 2.6`, and a bare `§4` is the heading `## 4.`. Find one
