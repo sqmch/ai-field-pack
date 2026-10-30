@@ -929,4 +929,5 @@ settle them from the company's own systems and people [inferred]:
 | Distributing agent config, plugins and skills; make or buy with costs; tool fit by role | `knowledge/05` §2.6 to §2.8 |
 | Published AI policies, policy skeleton, operating model, intake | `knowledge/06` §2.1 to §2.4 |
 | Advising patterns, onboarding curriculum, adoption evidence | `knowledge/06` §2.5 to §2.7 |
+| Orchestrator or factory, where parallelism sits, light and dark factory pipelines, lanes across many repositories, a plugin's own lane (diagrams) | `knowledge/08` §2 to §6 |
 | GitLab concepts for a GitHub user, access from a work laptop | `gitlab-for-github-users.md` |

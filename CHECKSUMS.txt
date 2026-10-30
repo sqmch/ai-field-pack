@@ -1,4 +1,4 @@
-48ffde6a976cdb9c3f2bba5221e04811b604884deaa6c237193fd47d958b096e    55018  FIELD-GUIDE.md
+2cf99c69e17e557a48379ec5d950e2c1a4d7be1423e8dea822908fd3519bf62a    55196  FIELD-GUIDE.md
 7c2ce7aefa39a42105ccfe30bf2640be93c423e4459fa8b9ff9dcaab6f37dd2e     9669  gitlab-for-github-users.md
 5abae454b535b2b6c8c13a5410237e36183c849bc48f01eebeb93e9101e06071    71442  knowledge/01-agentic-factory-state-of-the-art.md
 6629b9d5f8aa00e480ee2056714631333172ca9abccd2ee399b53a6856c072c2    88683  knowledge/02-cicd-and-platform-foundation.md
@@ -7,4 +7,5 @@
 623f3a10be0a319f649fa7c69fc2a524c3086dd154283c88622c59d29708a570   108390  knowledge/05-controlled-ai-architecture.md
 d6baa9ab6d6aa4890cde9a20dbbbf498ee5483a29b185f1938945469ee5d6aa9    66351  knowledge/06-policy-operating-model-and-enablement.md
 a25a7ff756ec26728a36d95bf753eba9148979496421d6b263e6550d603034a7    32290  knowledge/07-company-brain-and-central-factory.md
-1a9a710c1dadcc3bed5b9882c1a443800731c2de236251ca944d7a927411b9f2     4633  README.md
+04d41b67c8dbd4ee2474117c43b72d11f37bcc2596ba697c2d2382ac5d4ae86d    15616  knowledge/08-factory-topologies-and-plugin-lanes.md
+2dab685735203b3c8f6dd800d3343c7f6ca5c3211a60604f12672fd420f9051f     4984  README.md
